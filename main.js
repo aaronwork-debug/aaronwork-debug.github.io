@@ -22,5 +22,5 @@ form.addEventListener('submit', e => {
     addTextToForm('メールアドは重複してます')
     return
   }
-  addTextToForm('Success!', 'sucess')
+  addTextToForm('Success!', 'success')
 })
